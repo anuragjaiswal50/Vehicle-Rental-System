@@ -1,5 +1,3 @@
-Absolutely! Here's your aesthetic and well-structured README with emojis for enhanced clarity and engagement. 🚗✨
-
 🚘 Vehicle Rental System
 📜 Introduction
 The Vehicle Rental System is a Java-based application designed to provide efficient vehicle rentals and returns. Customers can rent cars, bikes, and scooters for a specified duration, process returns, and generate receipts for their transactions.
