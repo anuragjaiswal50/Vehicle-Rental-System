@@ -135,7 +135,7 @@ The entry point of the system.
 ## **📌 Setup & Usage Guide**
 🔧 Prerequisites
 - Java JDK (Version 8 or later).
-- VS Code (Recommended IDEs),Github.
+- VS Code (Recommended IDEs), Github.
 
 ## **🚀 Installation & Execution**
 1️⃣ Clone or download the project files.
@@ -147,8 +147,6 @@ The entry point of the system.
 - Database integration for storing rental history and customer records.
 - Graphical User Interface (GUI) for an improved user experience.
 - Online booking system for reserving vehicles in advance.
-
-Certainly! Here’s a **detailed workflow section** that you can integrate into your **README file**, ensuring users understand how the system operates.
 
 ---
 
@@ -224,5 +222,4 @@ Through its **menu-driven interface**, customers can **easily interact** with th
 
 This project lays a **strong foundation** for future enhancements, such as **database integration for persistent storage, a graphical user interface for improved user experience, and an online booking system for reservations**. With a **robust design and well-documented workflow**, the Vehicle Rental System is a reliable and extensible solution for vehicle rental management.
 
-🚀 **The system provides a practical, efficient, and scalable approach to rental operations, ensuring a seamless experience for customers.** Let me know if you need further refinements! ✨
-
+🚀 **The system provides a practical, efficient, and scalable approach to rental operations, ensuring a seamless experience for customers.** 
